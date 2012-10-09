@@ -2,5 +2,11 @@
 bin
 obj
 
+#folders
+cache/
+metadata/
+previews/
+Temp/
+
 # mstest test results
 TestResults
